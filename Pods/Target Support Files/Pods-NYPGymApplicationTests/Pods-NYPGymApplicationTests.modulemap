@@ -1,0 +1,6 @@
+framework module Pods_NYPGymApplicationTests {
+  umbrella header "Pods-NYPGymApplicationTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
